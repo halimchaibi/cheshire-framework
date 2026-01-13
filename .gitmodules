@@ -1,0 +1,6 @@
+[submodule "cheshire-blog-app"]
+	path = cheshire-blog-app
+	url = https://github.com/halimchaibi/cheshire-blog-app.git
+[submodule "cheshire-prototype"]
+	path = cheshire-prototype
+	url = https://github.com/halimchaibi/cheshire-prototype.git
