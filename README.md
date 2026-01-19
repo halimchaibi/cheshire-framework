@@ -30,6 +30,12 @@ git submodule update --init --recursive
 |--------|--------|--------|
 | [`v1.0.0-alpha.1` ](https://github.com/halimchaibi/cheshire-framework/releases/tag/v1.0.0-alpha.1)| Latest | Direct Clone |
 
+## 🗂 Project Board
+
+Project planning, progress tracking, and roadmap are managed on the GitHub Project board:
+
+👉 https://github.com/users/halimchaibi/projects/2
+
 ## Working with Submodules
 
 ### Updating Submodules
