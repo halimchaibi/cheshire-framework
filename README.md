@@ -24,6 +24,11 @@ git clone https://github.com/halimchaibi/cheshire-framework.git
 cd cheshire-framework
 git submodule update --init --recursive
 ```
+## 📦 Releases
+
+| Version | Status | Source |
+|--------|--------|--------|
+| [`v1.0.0-alpha.1` ](https://github.com/halimchaibi/cheshire-framework/releases/tag/v1.0.0-alpha.1)| Latest | Direct Clone |
 
 ## Working with Submodules
 
